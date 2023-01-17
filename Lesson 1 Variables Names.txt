@@ -1,0 +1,23 @@
+count - count_vowels // Хранит число гласных
+
+is_onumber_equal_xnumber - is_count_char_o_equal_count_char_x // Переменная равна True, если количество 'x' равно количеству 'o' в строке
+
+shortest_length - shortes_word_length_in_input // Хранит длину самого короткого слова из передаваемой строки
+
+sum_between - sum_all_integers_between // Хранит результат суммирования всех целых чисел из диапазона 
+
+removed_chars - input_without_first_and_last_chars // Переменная хранит входящую в функцию строку, но без первого и последнего символов
+
+processed_number - digits_from_input // Переменная хранит в себе список цифр, полученный после разбиения числа из входа функции на цифры
+
+rot13_message - data_encrypted_by_rot13 // Переменная хранит зшифрованную информацию по алгоритму rot13
+
+r - raw_wheather_service_request // В переменной хранится нераспарсенный ответ от API сервиса погоды
+
+inp - populated_area_name // Переменная хранит название населенного пункта для запроса погоды у API сервиса погоды
+
+w - wheater_data // Переменная содержит словарь значений о погоде
+
+our_speech - recognized_speech // В переменной хранится строка, содержащая распознанную ручь
+
+founded_subsequence - subsequence_with_max_length // Перемиенная хранит последовательность с максимальной длиной
